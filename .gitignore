@@ -1,0 +1,12 @@
+# Pastas de ambiente virtual
+meu_ambiente/
+
+# Pastas de cache do Python
+__pycache__/
+
+# Arquivos de notebook do Jupyter
+.ipynb_checkpoints/
+
+# Pastas de servidor do VS Code
+.vscode-server/
+.vscode-server-insiders/
