@@ -10,3 +10,4 @@ __pycache__/
 # Pastas de servidor do VS Code
 .vscode-server/
 .vscode-server-insiders/
+dataset/
