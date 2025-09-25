@@ -13,7 +13,7 @@ Scikit-learn, pip install scikit-learn,  **essa é a minha biblioteca principal 
 jupyter,  é instalado tbm no terminal, ferranenta padrao do Python, para relaizar o treinamento da ML
 
 # Resultados do Treinamento e Teste
-Os resultados que você obteve mostram que o seu modelo de Machine Learning está funcionando muito bem.
+Os resultados que  obteve mostram que o  modelo de Machine Learning está funcionando muito bem.
 
 Desempenho Geral do Modelo
 Acurácia: No conjunto de teste, o modelo alcançou uma acurácia de 86.38%, o que significa que ele classificou corretamente a maioria das imagens.
